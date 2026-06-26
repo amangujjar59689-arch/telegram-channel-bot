@@ -11,15 +11,15 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 # EDIT THESE LINKS
 # ==========================
 
-START_IMAGE = "https://YOUR_IMAGE_LINK_HERE"
+START_IMAGE = "https://i.postimg.cc/T3wMhCPn/IMG-20260626-022222-003.jpg"
 
-PROCESS_LINK = "https://t.me/YOUR_PROCESS_CHANNEL"
+PROCESS_LINK = "https://t.me/shreeganeshbazarrr"
 
-PHOTO_VIDEO_LINK = "https://t.me/YOUR_PHOTO_VIDEO_CHANNEL"
+PHOTO_VIDEO_LINK = "https://t.me/qulitychek"
 
-BUY_LINK = "https://t.me/YOUR_ADMIN_USERNAME"
+BUY_LINK = "https://t.me/shreeganeshbazarr"
 
-FEEDBACK_LINK = "https://t.me/YOUR_FEEDBACK_CHANNEL"
+FEEDBACK_LINK = "https://t.me/custmorfeedback"
 
 # ==========================
 
